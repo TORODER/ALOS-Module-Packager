@@ -1,0 +1,1 @@
+dart compile exe bin/alosmp.dart && mv bin/alosmp.exe . && ./alosmp.exe --dir ./example_module

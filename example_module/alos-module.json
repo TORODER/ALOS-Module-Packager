@@ -1,0 +1,6 @@
+{
+    "//":"启动入口命令 pwd为 alos-module.json 所在路径",
+    "startShell":"node dist/main.js",
+    "///":"程序名称只在CLI中使用",
+    "name":"Test Service Module"
+}

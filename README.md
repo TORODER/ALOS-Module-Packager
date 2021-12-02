@@ -5,7 +5,7 @@ ALOS 模块的打包器
 
 ## 构建
 
-```dart
+```shell
 
 dart compile exe bin/alosmp.dart
 
@@ -21,7 +21,7 @@ mv alosmp.exe alosmp
 ## 使用
 
 
-```dart 
+```shell 
 
 alosmp.exe --dir {{module path dir}}
 
@@ -45,7 +45,7 @@ alosmp --dir {{module path dir}}
 
 ## 测试
 
-```dart
+```shell
 
 /// 成功后输出 example——module.amp 文件
 
